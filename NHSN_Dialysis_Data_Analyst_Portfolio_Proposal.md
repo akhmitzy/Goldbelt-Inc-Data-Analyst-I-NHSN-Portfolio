@@ -111,7 +111,7 @@ Each notebook should have an "Open in Colab" badge, fixed random seeds, and a sh
 
 ---
 
-## What Makes It Read as Serious to to Goldbelt Inc
+## What Must Make It Read as Serious Proposal 
 
 - **Domain fidelity:** correct NHSN terminology, denominators in patient-months, and an acknowledgment that these are events, not necessarily infections.
 - **Documentation like a government contractor:** data dictionary, SOP for validation, change log, version control, and a limitations section. The role mentions government procedures and tracked modifications.
