@@ -26,4 +26,4 @@ The notebook **00_01_synthetic_data_and_data_quality.ipynb** is ready. I execute
 
 ## Next step
 
-Which should come next: notebook 02 (the negative binomial and Bayesian hierarchical rate model) or notebook 03 (interrupted time series and difference-in-differences)? Both reuse the same dataset.
+Next: notebook 02 (the negative binomial and Bayesian hierarchical rate model) and notebook 03 (interrupted time series and difference-in-differences)? Both reuse the same dataset.
