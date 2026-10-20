@@ -134,7 +134,6 @@ Each notebook should have an "Open in Colab" badge, fixed random seeds, and a sh
 
 ## Next Step
 
-Two good starting points:
 
 1. Build the first notebook: synthetic NHSN data generator plus validation pipeline, as a ready-to-run Colab `.ipynb`.
 2. Start with the Bayesian hierarchical rate model, the strongest statistical piece.
