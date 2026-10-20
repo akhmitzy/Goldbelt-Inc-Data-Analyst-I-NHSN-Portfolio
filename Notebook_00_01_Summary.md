@@ -1,4 +1,4 @@
-# Notebook 00_01: Synthetic Data Generator + Data Quality Validation Pipeline
+# README_1: Notebook 00_01: Synthetic Data Generator + Data Quality Validation Pipeline
 
 The notebook **00_01_synthetic_data_and_data_quality.ipynb** is ready. I executed it end to end in Jupyter with no errors, so the saved file includes its outputs and plots. It should run top to bottom on a free Colab CPU runtime in a few minutes, but I couldn't test it in Colab itself.
 
